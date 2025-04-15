@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Seyyed-Ali99
 - 👀 I’m interested in IT Engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Python and Django
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
