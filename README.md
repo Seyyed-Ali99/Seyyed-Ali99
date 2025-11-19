@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Seyyed-Ali99
+----- Welcome to my Github profile -----
+- 👋 Hi, I’m Seyed Ali Hoseini
 - 👀 I’m interested in IT Engineering
-- 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m Back-End Developer (Python / Django) 
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me ...hoseinishakor@gmail.com
+- ⚡ Fun fact: ... Im also an professional gamer 
+
 
 <!---
 Seyyed-Ali99/Seyyed-Ali99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
