@@ -2,9 +2,8 @@
 - 👋 Hi, I’m Seyed Ali Hoseini
 - 👀 I’m interested in IT Engineering
 - 🌱 I’m Back-End Developer (Python / Django) 
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me ...hoseinishakor@gmail.com
-- ⚡ Fun fact: ... Im also an professional gamer 
+- MY Email Adress --> hoseinishakor@gmail.com
+- Im Still looking for jobbbbb 👀
 
 
 <!---
